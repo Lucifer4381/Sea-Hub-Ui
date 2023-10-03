@@ -1,7 +1,7 @@
 # Misc
 
 ```diff
-local uilibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/LiterallyATrueClown/SeaHubFake/main/SeaHubUILIBFake.lua", true))()
+local uilibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/Lucifer4381/Sea-Hub-Ui/main/src", true))()
 ```
 
 # Create Window
